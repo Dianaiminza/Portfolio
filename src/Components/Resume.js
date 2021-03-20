@@ -57,6 +57,12 @@ class Resume extends Component {
     jobName="Second Job"
     jobDescription="Web development mentor at MOI University and web track lead at MMUST"
     />
+        <Experience
+    startYear={2021}
+    endYear={2021}
+    jobName="Third Job"
+    jobDescription="Web development intern at LITTLE CAB"
+    />
   <hr style={{borderTop: '3px solid #e22947'}} />
   <h2>Skills</h2>
   <Skills
